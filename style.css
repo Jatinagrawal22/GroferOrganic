@@ -19,7 +19,7 @@ nav{
 }
 ul{
     position: absolute;
-    right: 450px;
+    right: 510px;
     top: 50px;
     align-items: center;
     justify-content: center;
@@ -44,7 +44,7 @@ span{
     font-size: 2rem;
     position: absolute;
     top: 40px;
-    left: 120px;
+    left: 90px;
 }
 .aa{
     height: 5vh;
